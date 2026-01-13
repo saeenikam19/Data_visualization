@@ -49,5 +49,6 @@ The percent column is used for Y-axis
     Plot_Chart
 <img width="802" height="687" alt="image" src="https://github.com/user-attachments/assets/6bde8bb6-9d5b-4b7d-a9e4-2973ec4cd7b1" />
 
+    
     Bar_chart
 <img width="802" height="687" alt="image" src="https://github.com/user-attachments/assets/3c09bc3c-aba3-44a7-9034-fb7541ee45b6" />
