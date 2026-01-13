@@ -14,7 +14,7 @@ Plots a graph using Matplotlib
 
 ## 📁 Project Structure
     ├── raw_data.csv
-    ├── plot_graph.py
+    ├── read_file.py
     └── README.md
 
 ## 🛠 Technologies Used
