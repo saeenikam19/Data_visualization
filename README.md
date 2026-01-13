@@ -43,3 +43,7 @@ The percent column is used for Y-axis
 2️⃣ Run the Python file
 
     python plot_graph.py
+
+## OUTPUT
+
+<img width="802" height="687" alt="image" src="https://github.com/user-attachments/assets/6bde8bb6-9d5b-4b7d-a9e4-2973ec4cd7b1" />
